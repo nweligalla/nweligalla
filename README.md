@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently an undergraduate at University of Sri jayawardenepura
-- 🌱 I’m currently C#, .net, Flutter and Angular
+- 🌱 I’m currently learning C#, .net, Flutter and Angular
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, If i don't know it i'll google it myself and pretend that i know it 😈😝
 
