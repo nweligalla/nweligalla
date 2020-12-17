@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on open source projects
 - ❓ Ask me about anything, If i don't know it i'll google it myself and pretend that i know it 😈😝
 - 👻 fun fact, I was able to fix my dad's Mitsubishi mobile phone when i was in grade, 2, I just simply removed the battery and put it back and Volla! it worked. _sometimes all we need is a good restart_ 😎
-  -🧐 Apart form some programming languages i can deal with English and Sinhala launguages if you speak.
+- 🧐 Apart form some programming languages i can deal with English and Sinhala launguages if you speak.
 
 ---
 
@@ -21,8 +21,10 @@
 
 [<img src="./img/twitter.png" height="40px" width="40px">][twitter]
 [<img src="./img/linkedin.png" height="40px" width="40px">][linkedin]
+
 <!-- [<img src="img/facebook.png" class="img-style">][facebook] -->
 
 [twitter]: https://twitter.com/NWeligalla?s=09
 [linkedin]: https://www.linkedin.com/in/nayana-weligalla-113349173
+
 <!-- [facebook]: http://www.facebook.com -->
