@@ -27,7 +27,7 @@
 
 ---
 
-[<img src="./img/linkedin.png" height="40px" width="40px"">][twitter]
+[<img src="./img/twitter.png" height="40px" width="40px">][twitter]
 [<img src="./img/linkedin.png" height="40px" width="40px">][linkedin]
 <!-- [<img src="img/facebook.png" class="img-style">][facebook] -->
 
