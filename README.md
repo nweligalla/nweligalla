@@ -27,8 +27,8 @@
 
 ---
 
-[<img src="img/twitter.png" style="height:40px; width:40px;padding-right: 10px;">][twitter]
-[<img src="img/linkedin.png" style="height:40px; width:40px;padding-right: 10px;">][linkedin]
+[<img src="./img/linkedin.png" height="40px" width="40px"">][twitter]
+[<img src="./img/linkedin.png" height="40px" width="40px">][linkedin]
 <!-- [<img src="img/facebook.png" class="img-style">][facebook] -->
 
 [twitter]: https://twitter.com/NWeligalla?s=09
