@@ -1,11 +1,3 @@
-<style>
-.img-style{
-    height:40px; 
-    width:40px; 
-    padding-right: 10px;
-}
-</style>
-
 ### Hello there 👋 I'm Nayana Weligalla, Yeah I know you can see my name on github. But here i am
 
 ---
