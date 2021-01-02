@@ -14,7 +14,7 @@
 ## 🎁 And whoever you are, Wherever you from I wish you a HAPPY NEW YEAR (hope it'll be not the 2020_version-2.0) . 🎄🎅🤶
 
 
-![christmas](https://media.giphy.com/media/Rcmyx7NfyNhSM/giphy.gif)
+![newyear](https://media.giphy.com/media/CezXuieSq6MvMltlse/giphy.gif)
 
 <br/>
 
