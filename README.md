@@ -1,12 +1,11 @@
-### Hello there 👋 I'm Nayana Weligalla, Yeah I know you can see my name on github. But here i am
+### Hello there 👋 I'm Nayana Weligalla, Yeah I know you can see my name on GitHub. But here I am.
 
 ---
 
-- 🎓 I’m currently an undergraduate at University of Sri jayawardenepura
-- 📚 I’m currently learning C#, .net, Flutter and React
-- 🤝 I’m looking to collaborate on open source projects
-- ❓ Ask me about anything, If i don't know it i'll google it myself and pretend that i know it 😈😝
-- 🧐 Apart form some programming languages i can deal with English and Sinhala launguages if you speak.
+- 🎓 I’m a graduate of University of Sri Jayawardenepura
+- 🤝 I’m looking to collaborate on open-source projects
+- ❓ Ask me about anything, If I don't know it I'll google it myself and pretend that I know it 😈😝
+- 🧐 Apart from some programming languages I can deal with English and Sinhala languages if you speak.
 
 ---
 
