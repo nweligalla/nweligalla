@@ -6,17 +6,9 @@
 - 📚 I’m currently learning C#, .net, Flutter and React
 - 🤝 I’m looking to collaborate on open source projects
 - ❓ Ask me about anything, If i don't know it i'll google it myself and pretend that i know it 😈😝
-- 👻 fun fact, I was able to fix my dad's Mitsubishi mobile phone when i was in grade, 2, I just simply removed the battery and put it back and Volla! it worked. _sometimes all we need is a good restart_ 😎
 - 🧐 Apart form some programming languages i can deal with English and Sinhala launguages if you speak.
 
 ---
-
-## 🎁 And whoever you are, Wherever you from I wish you a HAPPY NEW YEAR (hope it'll be not the 2020_version-2.0) . 🎄🎅🤶
-
-
-![newyear](https://media.giphy.com/media/CezXuieSq6MvMltlse/giphy.gif)
-
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=nweligalla&&show_icons=true&title_color=fff&icon_color=blue&text_color=daf7dc&bg_color=151515)
 
