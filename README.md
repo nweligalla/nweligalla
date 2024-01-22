@@ -3,7 +3,7 @@
 ---
 
 - 🎓 I’m a graduate of the University of Sri Jayawardenepura
-- 🎓 I’m also doing my postgraduate in the University of Moratuwa
+- 🎓 I’m doing my postgraduate in the University of Moratuwa
 - 🤝 I’m looking to collaborate on open-source projects
 - ❓ Ask me about anything, If I don't know it I'll google it myself and pretend that I know it 😈😝
 - 🧐 Apart from some programming languages I can deal with English and Sinhala languages if you speak.
